@@ -1,0 +1,15 @@
+D:\Project MVS\labOne (1)\labOne (1)\bin\Debug\net7.0\labOne (1).exe
+D:\Project MVS\labOne (1)\labOne (1)\bin\Debug\net7.0\labOne (1).deps.json
+D:\Project MVS\labOne (1)\labOne (1)\bin\Debug\net7.0\labOne (1).runtimeconfig.json
+D:\Project MVS\labOne (1)\labOne (1)\bin\Debug\net7.0\labOne (1).dll
+D:\Project MVS\labOne (1)\labOne (1)\bin\Debug\net7.0\labOne (1).pdb
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).csproj.AssemblyReference.cache
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).GeneratedMSBuildEditorConfig.editorconfig
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).AssemblyInfoInputs.cache
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).AssemblyInfo.cs
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).csproj.CoreCompileInputs.cache
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).dll
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\refint\labOne (1).dll
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).pdb
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\labOne (1).genruntimeconfig.cache
+D:\Project MVS\labOne (1)\labOne (1)\obj\Debug\net7.0\ref\labOne (1).dll
